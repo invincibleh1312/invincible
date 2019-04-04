@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ai Cũng Đợi Chờ Mùa Hè"
-categories: [ Jekyll, tutorial ]
+categories: [ Jekyll, tutorial, HAHAHA ]
 image: assets/images/1.jpg
 featured: true
 ---
